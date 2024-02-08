@@ -1,1 +1,4 @@
-
+IoT weather node based on ESP32 to pick weather information from sensors and upload to AdEMNEA website.
+It uses both LoRa RAK11720 and GSM onboard the LillyGo 7000G v1.1.
+Operates on the basis of using BJTs and FETs to switch an and off sensors. 
+Local data storage is done on an SD Card onboard the LillyGo.
